@@ -1,0 +1,577 @@
+.desktop-hidden {
+  display: none !important;
+}
+.width-sm-100{
+    width:80%;
+}
+.font-48 {
+  font-size: 48px;
+}
+
+.mob-hidden {
+  display: block !important;
+}
+@media only screen and (max-width: 991px) {
+    .width-sm-100{
+        width:100%;
+    }
+    h4{
+        font-size: 25px !important; 
+    }
+    .careers{
+        height: auto !important;
+        padding-top: 1rem !important;
+        min-height: 500px !important;
+        max-height: 650px !important;
+        padding-bottom: 1rem !important;
+    }
+    .careers-text {
+      padding-top: 3rem !important;
+      padding-bottom: 0 !important
+    }
+    .careers-image-inner-text{
+        font-size:25px !important;
+    }
+    .careers-image-text{
+        font-size:24px !important;
+        margin-top: 2rem !important;
+    }
+    .careers-content {
+      padding: 2rem 0 !important;
+    }
+  .strategy-image-wrapper{
+      /* background: #ffcb03 */
+  }
+  .desktop-hidden {
+    display: block !important;
+  }
+  .strategy{
+      margin-top:0px !important;
+  }
+
+
+.about-us-image-wrapper, .strategy-image-wrapper {
+   height: auto !important;
+    min-height: auto !important;
+}
+
+  h2 {
+    font-size: 30px;
+  }
+  h5 {
+    font-size: 19px;
+  }
+  .pitch {
+    width: 100% !important;
+
+    padding: 0px !important;
+  }
+  .pitch-section {
+    margin-top: -50px;
+    padding-bottom: 0 !important;
+  }
+  .pitch-heading {
+    font-size: 24px !important;
+    padding: 0 1rem !important;
+    margin-bottom: 2rem !important;
+  }
+  .pitch-para {
+    padding: 0 2rem !important;
+    font-size: 16px !important;
+  }
+  .about-us {
+    margin-top: 50px !important;
+    padding: 0 1rem !important;
+  }
+  .aboutus-strategy-heading {
+    padding: 0px !important;
+    width: 100% !important;
+    font-size: 22px !important;
+    margin: 50px auto;
+  }
+  .aboutus-strategy-info {
+    width: 100% !important;
+    height: 192px !important;
+  }
+  .aboutus-strategy-info > img {
+    width: 100% !important;
+  }
+
+  /* padding: 0px !important; */
+  .aboutus-strategy-heading {
+    padding: 0px !important;
+    width: 100% !important;
+
+    margin: 100px auto;
+  }
+  .aboutus-strategy-info {
+    width: 100% !important;
+    height: 192px !important;
+  }
+
+  .aboutus-strategy-section {
+    min-height: 70vh;
+  }
+  .mob-hidden {
+    display: none !important;
+  }
+  .wrapper-3d {
+    width: 100% !important;
+    top: 65px !important;
+  }
+  .logoWrapper-right {
+    width: 65px;
+    height: 65px;
+  }
+  .footer-business-model {
+    top: 0px;
+  }
+  .sidenav a {
+    font-size: 20px !important;
+    padding: 8px 8px 8px 16px !important;
+  }
+  .about-us-content,
+  .strategy-content {
+    margin-left: 0px !important;
+    margin-top: 0px !important;
+    margin-bottom: 50px;
+    width: 100% !important;
+  }
+  .about-us-content {
+    padding-top: 20px !important;
+    padding: 0 1rem;
+  }
+  .strategy-content{
+      padding:0px !important;
+      padding-top:0rem !important;
+      
+  }
+  .strategy-section{
+    padding-top:5px;
+    padding: 0 1rem !important;
+  }
+  .strategy > h1 {
+    font-size: 42px;
+    padding-top: 50px;
+  }
+  .footer-wrapper {
+    padding: 0.5rem;
+  }
+  .reachOut > .row > .col-md-6 > h5 {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  h5.point {
+    font-size: 14px;
+  }
+  h5.point::after {
+    background: none;
+  }
+  .footer-logo-col {
+    min-width: 100%;
+    text-align: center !important;
+    min-height: 260px !important;
+    margin: 0.5rem 0 !important;
+  }
+  .webelves-caption {
+    text-align: left;
+    padding: 15px 0;
+  }
+  .webelves-caption > span {
+    font-size: 16px;
+  }
+  .social-media-wrapper {
+    margin: 0;
+    text-align: center !important;
+  }
+  .social-media-wrapper > a > span {
+    padding: 10px;
+  }
+  .footer-tc-wrapper {
+    margin-top: 0.5rem !important;
+    text-align: center !important;
+  }
+  .copyrights {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .offices {
+    margin-top: 0px !important;
+    width: 100% !important;
+  }
+  .locations {
+    min-height: 100% !important;
+    padding: 1rem !important;
+  }
+  .location-card-col {
+    padding-bottom: 2rem;
+  }
+  .location-card-wrapper {
+    width: 100% !important;
+    padding: 1rem !important;
+  }
+  .consult-us {
+    padding-left: 0 !important;
+  }
+  .consult-us-wrapper {
+    min-height: 0;
+  }
+  .consult-us-wrapper > .container {
+    min-height: 50vh;
+  }
+  .logoWrapper{
+    width: 65px;
+    height: 65px;
+    padding-left: 10px !important;
+  }
+  .logoWrapper > img {
+    padding-left: 0 !important;
+  }
+  .aboutus-strategy-section {
+    min-height: auto !important;
+    padding: 0 1rem;
+    margin-top: 1rem !important;
+    margin-bottom: 3rem !important;
+}
+  .inner-consult-us {
+    position: relative;
+    bottom: 50px;
+  }
+  .inner-consult-us > h2 {
+    font-size: 24px;
+  }
+  .inner-consult-us > h5 {
+    display: none;
+  }
+  .webelves-culture {
+    height: 100% !important;
+    margin-top: 0 !important;
+    padding: 1rem !important;
+  }
+  .culture-heading {
+    margin-top: 2rem !important;
+    margin-bottom: 0 !important;
+    font-size: 32px !important;
+  }
+  .culture-content {
+    margin-top: 0 !important;
+    padding: 2rem 0 !important;
+  }
+  .culture-inner-row {
+    padding: 0 !important;
+  }
+  .culture-img-wrapper {
+    text-align: center !important;
+  }
+  .culture-img-wrapper > img {
+    width: 30%;
+  }
+  .culture-inner-heading {
+    text-align: center;
+  }
+  .culture-inner-para {
+    font-size: 16px !important;
+  }
+  .culture-row1 {
+    margin-bottom: 0 !important;
+  }
+  .culture-row2 {
+    display: block;
+  }
+  .freelancers, .interns {
+    min-height: 50vh;
+  }
+  .freelancers-content, .interns-content {
+    min-height: 50vh !important;
+    display: flex;
+    align-items: center;
+  }
+  .interns-content {
+    min-height: 60vh !important;
+  }
+  .freelance-inner-wrapper {
+    padding: 1rem !important;
+  }
+  .freelance-heading {
+    font-size: 24px !important;
+    margin-bottom: 2rem !important;
+  }
+  .freelance-para {
+    font-size: 16px !important;
+    width: 90% !important;
+  }
+  .intern-inner-wrapper {
+    padding: 1rem !important;
+  }
+  .intern-heading {
+    margin-bottom: 1rem !important;
+    font-size: 24px !important;
+  }
+  .intern-para {
+    width: 90% !important;
+    font-size: 16px !important;
+  }
+  .work {
+    padding: 0 !important;
+    margin-bottom: 3rem;
+  }
+  .work-content {
+    margin-top: 5rem !important;
+  }
+  .work-heading {
+    font-size: 28px !important;
+    margin-bottom: 2rem !important;
+  }
+  .work-row {
+    display: block !important;
+  }
+  .work-image-wrapper {
+    padding: 1rem !important;
+  }
+  .work-inner-wrapper {
+    padding-top: 2rem !important;
+  }
+  .work-para {
+    width: 90% !important;
+    font-size: 16px !important;
+  }
+  .services {
+    padding: 0 1rem !important;
+  }
+  .services-content {
+    margin-top: 3rem !important;
+    width: 90%;
+    margin: 0 auto;
+  }
+  .services-head {
+    font-size: 28px !important;
+    margin-bottom: 1rem;
+  }
+  .services-heading {
+    padding: 0rem !important;
+    font-size: 28px !important;
+    margin-bottom: 2rem !important;
+    margin-top: 2rem !important;
+  }
+  .contactus-form {
+    margin-bottom: 5rem;
+  }
+  .form-group {
+    margin-top: 1rem !important;
+  }
+  .form-group > label {
+    font-size: 16px !important;
+  }
+  .form-heading {
+    padding: 0rem;
+    font-size: 28px;
+  }
+  .form-subheading {
+    font-size: 15px !important;
+  }
+  .btn-contact-submit {
+    width: 150px;
+  }
+  .about-us-image-wrapper > img {
+    height: 350px !important;
+  }
+  .our-services {
+    margin-top: 50px !important;
+    padding: 0 1rem !important;
+  }
+  .services-subheading {
+    font-size: 20px !important;
+  }
+  .flip-card {
+    width: 100% !important;
+    margin-top: 20px !important;
+    height: 320px !important;
+  }
+  .careers-section {
+    padding: 0 1rem !important;
+    margin-bottom: 3rem !important;
+  }
+  .card-content-wrapper {
+    width: 100% !important;
+    text-align: justify !important;
+    height: 70px !important;
+  }
+  .heading2, .heading1, .heading3 {
+    font-size: 15px !important;
+  }
+  .heading1 {
+    width: 55px !important;
+  }
+  .heading2 {
+    width: 100% !important;
+    font-size: 16px !important;
+  }
+  .heading3 {
+    width: max-content !important;
+  }
+  .card-content {
+    font-size: 15px !important;
+  }
+  .footer-about-heading {
+    margin-bottom: 0.5rem !important;
+    margin-top: 0.5rem !important;
+    text-align: left !important;
+  }
+  .mail {
+    margin-left: 0 !important;
+    margin-top: 1rem !important;
+  }
+  .quick-links {
+    width: 100% !important;
+  }
+  .company-heading-wrapper {
+    padding-left: 15px !important;
+  }
+  .social-mob {
+    display: block !important;
+    width: 100% !important;
+  }
+  .quick-link-btn {
+    font-size: 14px !important;
+  }
+  .banner {
+    padding: 0 15px !important;
+  }
+  .banner-heading, .highlight {
+    font-size: 40px !important;
+  }
+  .banner-subheading {
+    font-size: 20px !important;
+  }
+  .flip-card-front-inner {
+    padding-top: 25px !important;
+  }
+  .office-heading {
+    margin-bottom: 2rem !important;
+    margin-top: 3rem !important;
+  }
+  .contactus-form {
+    padding: 2rem !important;
+  }
+  .form-wrapper {
+    padding: 0 !important;
+    margin-top: 0 !important;
+  }
+  .mob-about-banner {
+    position: relative;
+    top: -50px;
+  }
+  .our-mantra > .row {
+    width: 100% !important;
+    margin: 0 !important;
+    margin-top: 0 !important;
+  }
+  .left-mantra > p, .right-mantra > p {
+    padding: 0 1rem !important;
+  }
+  .banner-row > .col > .container {
+    min-height: 70vh !important;
+  }
+  .mob-career-inline {
+    font-size: 24px !important;
+    font-weight: bold;
+  }
+  .mob-army-inline {
+    font-size: 28px !important;
+  }
+  .blog-page {
+    padding: 0 2rem !important;
+    margin-top: 3rem !important;
+  }
+  .blog-card {
+    width: 100% !important;
+  }
+  .careers-para, .strategy-para, .about-us-text {
+    font-size: 16px !important;
+  }
+  .service-banner {
+    padding: 0 1rem;
+  }
+  .service-banner > div > h1 {
+    font-size: 40px !important;
+  }
+  .service-content {
+    padding: 2rem !important;
+    margin-bottom: 3rem !important;
+  }
+  .service-content > p, .service-content > ul > li {
+    font-size: 16px !important;
+  }
+  .solutions-heading {
+    width: 85px !important;
+  }
+  .solution-card {
+    padding: 1rem !important;
+    margin: 1rem 0 !important;
+    min-height: 80px !important;
+  }
+  .solution-card > h5 {
+    font-size: 20px !important;
+  }
+  .how-heading {
+    width: 220px !important;
+  }
+  .mob-request-wrapper {
+  
+  }
+  .request-button {
+    padding: 0.8rem 1.5rem !important;
+    font-size: 15px !important;
+  }
+  .customWeb > .service-banner {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  .how-row {
+    min-height: 300px !important;
+    /* height: 350px !important; */
+  }
+  .how-row > p {
+    font-size: 16px !important;
+    line-height: 35px !important;
+  }
+  .benefit-cards > h5, .elixir-cards > h5 {
+    height: 50px !important;
+  }
+  .benefit-cards > p {
+    margin-top: 1.5rem !important;
+  }
+  .elixir-cards {
+    height: 240px !important;
+  }
+  .mob-how-design {
+    min-height: 200px !important;
+  }
+  .blog-img-wrapper {
+    width: 100% !important
+  }
+  .technologies-banner {
+    height: 300px !important;
+  }
+  .technologies-content {
+    padding: 50px 25px !important;
+  }
+  .tech-wrapper {
+    width: 100% !important;
+  }
+  .backend > p, .frontend > p {
+    text-align: justify !important;
+  }
+  .mid-headers {
+    width: 100% !important;
+    border-bottom: none !important;
+    text-decoration: underline;
+  }
+  .request-heading, .request-subheading {
+    margin-left: 0 !important;
+  }
+  .shadow-container > .row {
+    margin-left: 0 !important;
+  }
+}
